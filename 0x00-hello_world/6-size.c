@@ -5,7 +5,7 @@
  *
  * Return: Always 0
  */
-int main(void) 
+int main(void)
 {
 	 char c_char;
 	 int c_int;
@@ -18,6 +18,6 @@ int main(void)
 	 printf("Size of a long int: %lu byte(s)\n", sizeof(c_long));
 	 printf("Size of a long long int: %lu byte(s)\n", sizeof(c_long_long));
 	 printf("Size of a float: %lu byte(s)\n", sizeof(c_float));
-	    
-	return 0;
+	 
+	 return (0);
 }
