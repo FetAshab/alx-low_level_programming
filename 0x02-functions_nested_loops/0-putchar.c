@@ -1,19 +1,19 @@
-#include "main.h"
+#include"main.h"
 /**
- * main - entry block
+ * main -entry block
  * 
- * Return: 0
- **/
+ * Return 0
+ * */
 int main(void)
 {
-	char put[] = "_putchar";
+		char put[] = "_putchar";
 
-	int c;
+			int a;
 
-	for (c = 0; c < 8; c++)
-	{
-		_putchar(ermias[c]);
-	}
-	_putchar('\n');
-	return (0);
+				for (a = 0; a < 8; a++)
+						{
+									_putchar(put[a]);
+										}
+					_putchar('\n');
+						return (0);
 }
