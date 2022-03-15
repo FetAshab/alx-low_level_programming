@@ -7,11 +7,8 @@
  */
 int main(void)
 {
-<<<<<<< HEAD
 	_putchar('_');
-=======
  	_putchar('_');
->>>>>>> c21e12c91da3a3346376b112d0cc12ad9f9e6d77
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
